@@ -14,7 +14,7 @@ The following **required** functionality is completed:
 
 ## Video Walkthrough!
 
-[project4](https://user-images.githubusercontent.com/109322859/226470339-b7622906-ac5a-4868-be5b-ecc03dde8e17.gif)
+![project4](https://user-images.githubusercontent.com/109322859/226470339-b7622906-ac5a-4868-be5b-ecc03dde8e17.gif)
 
 GIF created with LICEcap
 
