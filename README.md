@@ -20,7 +20,7 @@ GIF created with LICEcap
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+A challenge I faced was getting the table cells to fill the entire screen and format properly.
 
 ## License
 
